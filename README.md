@@ -1,20 +1,35 @@
-# 💫 About Me:
-• Hi, I'm  a Computer Science student passionate about cybersecurity, web development, and innovative digital solutions.<br><br>
-• Skilled in JavaScript, Firebase, Python, and modern web technologies.<br>
-• Focused on building practical, scalable, and user-focused projects.<br><br>
+<h1 align="center">Hi 👋, I'm Kshitij Girish Yerawar</h1>
 
-• 🚀 Interests:<br>
-• Cybersecurity & Ethical Hacking<br>
-• Full-Stack Web Development<br>
-• Firebase & Backend Systems<br>
-• AI Tools & Automation<br><br>
+<h3 align="center">Computer Science Student | Learning Developer | Cybersecurity Enthusiast | Vibe Coder</h3>
 
-• 💡 Currently Working On:<br>
-• Secure web applications<br>
-• Firebase-powered platforms<br>
-• Cybersecurity learning projects<br>
-• AI-integrated tools and systems
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Learning+Web+Development;Cybersecurity+%26+Ethical+Hacking;Firebase+%26+Backend+Exploration;AI+Tools+%26+Automation;Building+Projects+with+Creativity" alt="Typing SVG" />
+</p>
 
+---
+
+### 🚀 About Me:
+- 🎓 Computer Science student exploring real-world technology  
+- 💻 Learning Web Development & Backend Systems  
+- 🔐 Passionate about Cybersecurity & Ethical Hacking  
+- 🔥 Working with JavaScript, Firebase, Python  
+- 🎨 Vibe coder who loves building creative digital projects  
+- 💡 Focused on learning, experimenting, and creating practical solutions  
+
+---
+
+### 🌱 Currently Learning & Building:
+- Secure web applications  
+- Firebase-powered platforms  
+- Cybersecurity projects  
+- AI-integrated tools and automation  
+
+---
+
+### 🛠 Tech Stack:
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,firebase,html,css,github,vscode" />
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/usr_kshitij) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitij-yerawar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kshitijyerawar112006@gmail.com) 

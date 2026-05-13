@@ -1,5 +1,19 @@
 # 💫 About Me:
-Hi, I'm Kshitij Girish Yerawar — a Computer Science student passionate about building real-world tech projects, cybersecurity, web development, and innovative digital solutions.<br>I enjoy turning ideas into working products using technologies like JavaScript, Firebase, Python, and modern web tools. From gaming platforms and prediction apps to cybersecurity platforms and automation systems, I love creating projects that are practical, scalable, and user-focused.<br>🚀 Interests:<br>Cybersecurity & Ethical Hacking<br>Full-Stack Web Development<br>Firebase & Backend Systems<br>AI Tools & Automation<br>Open Source & Tech Innovation<br>💡 Currently Working On:<br>Secure web applications<br>Firebase-powered platforms<br>Cybersecurity learning projects<br>AI-integrated tools and systems
+• Hi, I'm  a Computer Science student passionate about cybersecurity, web development, and innovative digital solutions.<br><br>
+• Skilled in JavaScript, Firebase, Python, and modern web technologies.<br>
+• Focused on building practical, scalable, and user-focused projects.<br><br>
+
+• 🚀 Interests:<br>
+• Cybersecurity & Ethical Hacking<br>
+• Full-Stack Web Development<br>
+• Firebase & Backend Systems<br>
+• AI Tools & Automation<br><br>
+
+• 💡 Currently Working On:<br>
+• Secure web applications<br>
+• Firebase-powered platforms<br>
+• Cybersecurity learning projects<br>
+• AI-integrated tools and systems
 
 
 ## 🌐 Socials:

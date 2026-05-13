@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠 Tech Stack:
+### 🛠 Mostly Used Stack:
 <p>
   <img src="https://skillicons.dev/icons?i=js,python,firebase,html,css,github,vscode" />
 </p>

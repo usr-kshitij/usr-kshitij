@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://linkedin.com/in/kshitij-yerawar">
+  <a href="https://linkedin.com/in/kshitij-yerawar011">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 
